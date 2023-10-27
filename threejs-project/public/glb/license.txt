@@ -1,0 +1,11 @@
+Model Information:
+* title:	HW8_DetailPirozhokBoss_ (RETRY_SCHOOL)
+* source:	https://sketchfab.com/3d-models/hw8-detailpirozhokboss--retry-school-a9c7919494e3441e9a4c9f1f4cacb2a3
+* author:	Mills (https://sketchfab.com/vova_mills)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HW8_DetailPirozhokBoss_ (RETRY_SCHOOL)" (https://sketchfab.com/3d-models/hw8-detailpirozhokboss--retry-school-a9c7919494e3441e9a4c9f1f4cacb2a3) by Mills (https://sketchfab.com/vova_mills) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
